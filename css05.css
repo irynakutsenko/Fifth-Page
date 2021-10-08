@@ -1,0 +1,52 @@
+main div {
+    padding: 25px;
+}
+
+#red {
+    background-color: red;
+    text-align: center;
+}
+
+#first {
+    display: flex;
+}
+
+#red h1 {
+    background-color: white;
+    color: red;
+    text-transform: uppercase;
+    border-radius: 1em;
+    width: 25%;
+    margin: 0 50%;
+}
+
+#one h2 {
+    text-transform: uppercase;
+}
+
+#green {
+    background: green;
+    text-align: center;
+}
+
+#second {
+    display: flex;
+}
+
+#green h1 {
+    background-color: white;
+    color: green;
+    text-transform: uppercase;
+    border-radius: 1em;
+    width: 25%;
+    margin: 0 50%;
+}
+
+#title {
+    display: flex;
+    justify-content: center;
+}
+
+#two h3 {
+    text-transform: uppercase;
+}
